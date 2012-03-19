@@ -7,7 +7,7 @@ ini_set('error_reporting', E_ALL);
 
 $output1 = shell_exec('git pull origin master');
 echo "<pre>$output1</pre>";
-$output = shell_exec('git help');
-echo "<pre>$output</pre>";
-echo "here";
+//$output = shell_exec('git help');
+//echo "<pre>$output</pre>";
+//echo "here";
 ?>
