@@ -1,4 +1,4 @@
-<?php `git pull`; 
+<?php 'git pull'; 
 
 /*
  * To change this template, choose Tools | Templates
