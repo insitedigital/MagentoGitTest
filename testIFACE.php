@@ -10,7 +10,7 @@
  * @author Andrew
  */
 interface testIFACE {
-    //put your code hgfhghfghgere tfrgdfggfgf
+    //put yo
 }
 
 ?>
