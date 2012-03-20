@@ -10,7 +10,7 @@
  * @author Andrewh
  */
 interface newPHPInterface32131 {
-    //put your code herefdsfdd
+    //put your code herefdsfddfds
 }
 
 ?>
