@@ -7,7 +7,7 @@ error_reporting(-1);
 ini_set('error_reporting', E_ALL);
 
 $fh = fopen("logfile.php", "a+" ) ;
-$result = "HERE!\n\n";
+$result = "HERE!\n\n\n";
 ?>
 <?php //`git pull`;
 fputs($fh, $result, strlen($result));
