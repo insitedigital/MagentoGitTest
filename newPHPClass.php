@@ -6,10 +6,11 @@
  */
 
 /**
+ * Description of newPHPClass
  *
- * @author Andrewh
+ * @author Andrew
  */
-interface newPHPInterface32131 {
+class newPHPClass {
     //put your code here
 }
 
