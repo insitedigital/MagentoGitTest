@@ -61,8 +61,8 @@ else
 	fputs($fh, $result, strlen($result));
 }
 }
-echo "<pre>$result</pre>";
-fputs($fh, $result, strlen($result));
-fclose($fh);
+//echo "<pre>$result</pre>";
+//fputs($fh, $result, strlen($result));
+//fclose($fh);
 
 
