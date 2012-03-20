@@ -9,8 +9,8 @@
  *
  * @author Andrew
  */
-interface testIFACE {
-    //put yodsdsadgfgdfgdfgfgas
+interface newPHPInterface32131 {
+    //put your code here
 }
 
 ?>
