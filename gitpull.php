@@ -44,7 +44,8 @@ if ( $payload->ref === 'refs/heads/master' && $_REQUEST['key'] == SERVER_KEY ) {
 			$result = "In try\n\n";
 	fputs($fh, $result, strlen($result));
         $result = shell_exec('git pull origin master' );
-		$log_result = serialize($result);
+		//$log_result = serialize($result);
+                $log_result = $result;
 		fputs($fh, $log_result, strlen($log_result));
 		$result = "Post Exec\n\n";
 	fputs($fh, $result, strlen($result));
